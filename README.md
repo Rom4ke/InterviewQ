@@ -1,7 +1,7 @@
 <h1 align="center"> Вопросы и ответы к интервью на позицию AQA </h1>
 
 
-<details style="font-size: 150%; font-family: Arial">
+<details>
     <summary>Web (front and back)</summary>
 </details>
 <details>
