@@ -2,20 +2,20 @@
 
 
 <details>
-    <summary style="font-size: 150%; font-family: monospace">Web (front and back)</summary>
+    <summary style="font-size: 150%; font-family: Arial">Web (front and back)</summary>
 </details>
 <details>
-    <summary style="font-size: 150%; font-family: monospace">Java Core</summary>
+    <summary style="font-size: 150%; font-family: Arial">Java Core</summary>
 </details>
 <details>
-    <summary style="font-size: 150%; font-family: monospace">Docker</summary>
+    <summary style="font-size: 150%; font-family: Arial">Docker</summary>
 </details>
 <details>
-    <summary style="font-size: 150%; font-family: monospace">Git</summary>
+    <summary style="font-size: 150%; font-family: Arial">Git</summary>
 </details>
 <details>
-    <summary style="font-size: 150%; font-family: monospace">Frameworks (Selenium/Selenide and JUnit etc)</summary>
+    <summary style="font-size: 150%; font-family: Arial">Frameworks (Selenium/Selenide and JUnit etc)</summary>
 </details>
 <details>
-    <summary style="font-size: 150%; font-family: monospace">Базовые знания Linux администрирования</summary>
+    <summary style="font-size: 150%; font-family: Arial">Базовые знания Linux администрирования</summary>
 </details>
