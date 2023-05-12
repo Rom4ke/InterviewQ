@@ -1,11 +1,5 @@
 <h1 align="center"> Вопросы и ответы к интервью на позицию AQA </h1>
 
-<style>
-    summary {
-        font-family: 'Times New Roman', Times, serif;
-    font-size: 200%;
-    }
-</style>
 
 <details>
     <summary>Web (front and back)</summary>
